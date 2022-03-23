@@ -11,5 +11,6 @@ Un blogo increible para el curso el de Git y GitHub
 * Las personalidades multiples de Freddy
 * Creado por el increible LUIS SUAREZ
 * Incluye ejemplos en Windows, Linux y Mac
+* Disponibles para todas las edades
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Creado para el ejemplo. Si llegas aca NO TE LO TOMES EN SERIO y mejor ve [a ver el curso](http://https://platzi.com/cursos/git-github/ "a ver el curso")
